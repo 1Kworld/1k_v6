@@ -7,7 +7,7 @@ export default function Main(){
             <div className="container px-4 px-lg-5">
                 <div className="button_cont" align="center">
                 <br /> <br /> <br /> <br /> <br /> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-                    <a className="example_b" href="/include/globe/theglobe.html" target="_self" rel="nofollow noopener noreferrer" draggable="false">&nbsp;&nbsp;&nbsp;Welcome&nbsp;&nbsp;&nbsp;</a>
+                    <a className="example_b" href="src/pages/lal/LookaLike.js" target="_self" rel="nofollow noopener noreferrer" draggable="false">&nbsp;&nbsp;&nbsp;Welcome&nbsp;&nbsp;&nbsp;</a>
                 </div>
             </div>
             </section>
